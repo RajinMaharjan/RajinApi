@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8u9V2UumPIaGJHiZNlh4Q/1t+BSAGAAjn+bSyvjeeGYiU1fswjME3/TMhQkblxrjA5ojT3rEBv1NL1SNgpGGsg==",
+  "success": true,
+  "projectFilePath": "D:\\Rajin\\RajinApi\\source\\Api\\yuuki.Api\\yuuki.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajinm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\rajinm\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rajinm\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\rajinm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\rajinm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\rajinm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
